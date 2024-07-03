@@ -1,0 +1,1 @@
+Contributions are currently closed. However, once I have a more robust code-base for the project, I will open it for contributions. In the meantime, feel free to report any bugs or issues you encounter.
